@@ -1,18 +1,20 @@
-<p align="center"><img src="banner.png" alt="Abel Miller · Frontend & Motion Developer" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="Abel Miller · Frontend & Motion Developer" width="100%"></p>
 
-### Hola, soy Abel 👋
+### <img src="assets/ic-hola.svg" height="22" align="top"> Hola, soy Abel
 
 Desarrollador **frontend** que convierte ideas en interfaces vivas: web, animación y contenido visual.
 Me gusta **trabajar en equipo** y llevar un producto desde el diseño hasta producción.
 
-### 🛠️ Lo que hago
+<img src="assets/divider.svg" width="100%">
+
+### <img src="assets/ic-hago.svg" height="22" align="top"> Lo que hago
 
 - **Frontend**: interfaces rápidas, accesibles y responsive.
 - **Motion y animación**: videos y piezas animadas hechas con código (GSAP, HyperFrames, Remotion).
 - **Edición gráfica**: portadas, carruseles y piezas para redes sociales.
 - **Backend y servidores**: APIs, bases de datos y despliegues con Docker.
 
-### 🧰 Stack
+### <img src="assets/ic-stack.svg" height="22" align="top"> Stack
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-191B1C?style=for-the-badge&logo=html5&logoColor=34D7DB">
@@ -32,22 +34,24 @@ Me gusta **trabajar en equipo** y llevar un producto desde el diseño hasta prod
 <img src="https://img.shields.io/badge/Figma-191B1C?style=for-the-badge&logo=figma&logoColor=34D7DB">
 </p>
 
-### 🚀 Proyectos destacados
+### <img src="assets/ic-proy.svg" height="22" align="top"> Proyectos destacados
 
 - **BullFlow**: SaaS de ventas por WhatsApp con IA (Next.js · FastAPI · PostgreSQL · Redis).
 - **Motion graphics publicitarios** renderizados con código (HyperFrames · GSAP).
 
-### 🌱 Aprendiendo ahora
+### <img src="assets/ic-apr.svg" height="22" align="top"> Aprendiendo ahora
 
 Nuevos modelos de IA y agentes · generación de imagen, video y voz · automatización de flujos creativos.
 
-### 🤝 Busco colaborar en
+### <img src="assets/ic-colab.svg" height="22" align="top"> Busco colaborar en
 
 Productos web con un fuerte componente visual, animación e inteligencia artificial.
 
-<!-- 📫 Contacto: agrega aquí tus enlaces cuando quieras, por ejemplo:
+<!-- Contacto: agrega aquí tus enlaces cuando quieras, por ejemplo:
 [LinkedIn](https://linkedin.com/in/tu-usuario) · [Correo](mailto:tu-correo) · [Portafolio](https://tu-sitio)
 -->
+
+<img src="assets/divider.svg" width="100%">
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Abel-miller&show_icons=true&hide_border=true&bg_color=191B1C&title_color=34D7DB&icon_color=34D7DB&text_color=EDEFF0" height="165">
